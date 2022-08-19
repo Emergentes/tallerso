@@ -1,4 +1,7 @@
-# Taller Sistemas Operativos - Instalación y configuración
+# Universidad Pública de El Alto
+# Carrera de Ingeniería de Sistemas 
+
+## Taller Sistemas Operativos - Instalación y configuración
 
 Material:
 
